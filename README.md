@@ -10,7 +10,7 @@
 </a>
 </div>
 
-Tecnologias que eu trabalho 🖥️
+- Tecnologias que eu trabalho 🖥️
 
 <div style="display: inline-block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +23,8 @@ Tecnologias que eu trabalho 🖥️
 </div>
 
 ##
+
+- Minhas Redes Sociais
 
 <div>
   <a href="https://instagram.com/jpbertilhooficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
