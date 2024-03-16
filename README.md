@@ -4,7 +4,7 @@
 - 🌱 Estudando TypeScript
 - ⚡ Uma curiosidade: Sou casado🙂
 
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpbertilhodev&show_icons=true" />
 </a>
